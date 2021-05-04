@@ -6,7 +6,7 @@ Portfolio project for JAPN 114: Begginer Japanese III
 
 This is a web-based application, and as such should run in your browser. For all intents and purposes this is a "static" webpage. Therefore, there shouldn't be much useability beyond basic page navigation and media viewing. 
 
-The site can be found here: https://keilsohnw.github.io/index.html
+The site can be found here: https://wkeilsohn.github.io/JAPN_114_Port/
 
 If there are issues viewing the application please feel free to contact me.
 
