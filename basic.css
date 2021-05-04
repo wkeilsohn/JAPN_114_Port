@@ -1,0 +1,86 @@
+body{
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	margin: 0 1em;
+}
+
+.navbar{
+	background-color: gray;
+}
+
+.navbar-brand{
+	font-size: 1em;
+	margin: 0 1em;
+}
+
+.navbar-nav{
+	margin: 0 1em;
+	text-align: center;
+	color: black;
+	display: inline;
+}
+
+.nav-item{
+	color: black;
+	display: inline;
+}
+
+#website{
+	color: black;
+}
+
+#homeglobe{
+	color: red;
+}
+
+#github{
+	color: blue;
+}
+
+#FinalProject{
+	height: 25em;
+	width: 40em;
+}
+
+.lefthand{
+	text-align: left;
+	padding-right: 5%;
+}
+
+.righthand{
+	text-align: right;
+	padding-left: 5%;
+}
+
+table{
+	width: 100%;
+}
+
+td{
+	width: 25%;
+	border-top: solid;
+	border-bottom: solid;
+	border-width: 2px;
+	border-left: none;
+	border-right: none;
+}
+
+#Essay{
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: left;
+	text-indent: 2em;
+}
+
+#headletter{
+	text-align: left;
+	font-size: 5em;
+	text-indent: 0em;
+}
+
+hr{
+	width: 60%;
+	margin: auto;
+}
